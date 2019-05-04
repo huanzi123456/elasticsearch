@@ -1,0 +1,8 @@
+
+spring:
+  elasticsearch:
+    jest:
+      uris: http://47.110.62.200:9200
+      multi-threaded: true
+      read-timeout: 1200s
+      connection-timeout: 1200s
